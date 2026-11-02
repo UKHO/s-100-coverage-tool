@@ -1,0 +1,2 @@
+# Add one exact catalog fileName per line to exclude that dataset from matching.
+# Blank lines and lines beginning with # are ignored.
